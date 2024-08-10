@@ -66,7 +66,8 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.2" # 0~1
     title: 
-      - "Uncle Yu Restaurant 永康又一家"
+      - "Uncle Yu Restaurant"
+      - "永康又一家"
     titleColor: "#ffffff"
     description: 
       - "ASIAN & CHINESE FOOD IN UNION CITY"
@@ -300,11 +301,11 @@ footer:
 
   openingHoursInsteadText: ""
   openingHours: 
-    - "Monday:"
+    - "Monday"
     - "10:00 AM - 9:00 PM"
-    - "Tuesday:"
+    - "Tuesday"
     - "Close"
-    - "Wednesday - Sunday:"
+    - "Wednesday - Sunday"
     - "10:00 AM - 9:00 PM"
   
   isLogo: true

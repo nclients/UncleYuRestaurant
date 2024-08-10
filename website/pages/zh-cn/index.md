@@ -67,7 +67,8 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.2" # 0~1
     title: 
-      - "Uncle Yu Restaurant 永康又一家"
+      - "Uncle Yu Restaurant"
+      - "永康又一家"
     titleColor: "#ffffff"
     description: 
       - "Union City 的亞洲及中國美食"
@@ -119,7 +120,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Uncle Yu Restaurant的美食"
+      - "Uncle Yu Restaurant 永康又一家的美食"
     titleColor: "#000000"
     description: 
       - ""
@@ -137,7 +138,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Uncle Yu Restaurant菜單"
+      - "Uncle Yu Restaurant 永康又一家菜單"
     titleColor: "#000000"
     description: 
       - ""
@@ -158,7 +159,7 @@ sections:
       - "關於我們"
     titleColor: "#000000"
     description: 
-      - "Uncle Yu Restaurant 於 1995 年在 Union City 成立。Uncle Yu 專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu 的老闆 Ginny 在中國出生，15 歲時在香港開始學習烹飪。在香港有了 8 年的烹飪經驗後，Ginny 移居美國，在 Newark 開了第一家餐廳「永康海鮮酒家」，之後在 Fremont 開了「新永康海鮮酒家」。"
+      - "Uncle Yu Restaurant 永康又一家 於 1995 年在 Union City 成立。Uncle Yu 專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu 的老闆 Ginny 在中國出生，15 歲時在香港開始學習烹飪。在香港有了 8 年的烹飪經驗後，Ginny 移居美國，在 Newark 開了第一家餐廳「永康海鮮酒家」，之後在 Fremont 開了「新永康海鮮酒家」。"
       - "他成功的秘訣在於食物品質，每天都在當地採購新鮮的農產品。Uncle Yu's 的特色菜有核桃雞、蒙古牛肉和烤肉炒麵。現在我們也提供冰淇淋。歡迎您隨時光臨 Union City，從 Hwy 880 離開 Whipple Rd，Uncle Yu 就在 Industrial Pkwy SW 旁邊。"
     
 
@@ -172,7 +173,7 @@ sections:
     height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgWithText" # video | imgWithText | imgBg
     title: 
-      - "歡迎來Uncle Yu Restaurant"
+      - "歡迎來Uncle Yu Restaurant 永康又一家"
     titleColor: "#000000"
     description: 
       - "在 Uncle Yu Restaurant 永康又一家，我們非常高興為顧客提供正宗美味的中國菜。"
@@ -250,7 +251,7 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "Uncle Yu Restaurant11.jpeg"
+    bgImg: "/Uncle Yu Restaurant11.jpeg"
     bgColor: "#000"
     bgOpacity: "0.6" # 0~1
     title: 
@@ -301,11 +302,11 @@ footer:
 
   openingHoursInsteadText: "營業時間"
   openingHours: 
-    - "週一:"
+    - "週一"
     - "10:00 AM - 9:00 PM"
-    - "週二:"
+    - "週二"
     - "Close"
-    - "週三 - 週日:"
+    - "週三 - 週日"
     - "10:00 AM - 9:00 PM"
   
   isLogo: true
