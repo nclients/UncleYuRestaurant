@@ -37,7 +37,7 @@ header:
   bgOpacity: "1" # 0~1
   menuTextColor: "#000000"
   menu:
-  
+    
     - { text: "首頁", link: "/zh-cn" }
     - { text: "菜品展示", link: "#gallery" }
     - { text: "關於我們", link: "#about-us" }
@@ -130,23 +130,23 @@ sections:
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
-    # Gallery  
-  - type: "gallery"
-    id: "gallery"
-    mode: 3 # 1 - 3
-    bgImg: ""
-    bgColor: ""
-    bgOpacity: "" # 0~1
-    title: 
-      - "Uncle Yu Restaurant 永康又一家菜單"
-    titleColor: "#000000"
-    description: 
-      - ""
-    descriptionColor: "#333333"
-    folderPath: "gallery2"
-    showImgName: false # true | false
-    imgNameColor: "#000000"
-    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+#     # Gallery  
+#   - type: "gallery"
+#     id: "gallery"
+#     mode: 3 # 1 - 3
+#     bgImg: ""
+#     bgColor: ""
+#     bgOpacity: "" # 0~1
+#     title: 
+#       - "Uncle Yu Restaurant 永康又一家菜單"
+#     titleColor: "#000000"
+#     description: 
+#       - ""
+#     descriptionColor: "#333333"
+#     folderPath: "gallery2"
+#     showImgName: false # true | false
+#     imgNameColor: "#000000"
+#     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 
 # textBlock - only title
@@ -159,8 +159,8 @@ sections:
       - "關於我們"
     titleColor: "#000000"
     description: 
-      - "Uncle Yu Restaurant 永康又一家 於 1995 年在 Union City 成立。Uncle Yu 專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu 的老闆 Ginny 在中國出生，15 歲時在香港開始學習烹飪。在香港有了 8 年的烹飪經驗後，Ginny 移居美國，在 Newark 開了第一家餐廳「永康海鮮酒家」，之後在 Fremont 開了「新永康海鮮酒家」。"
-      - "他成功的秘訣在於食物品質，每天都在當地採購新鮮的農產品。Uncle Yu's 的特色菜有核桃雞、蒙古牛肉和烤肉炒麵。現在我們也提供冰淇淋。歡迎您隨時光臨 Union City，從 Hwy 880 離開 Whipple Rd，Uncle Yu 就在 Industrial Pkwy SW 旁邊。"
+      - "Uncle Yu Restaurant永康又一家於1995年在 Union City 成立。Uncle Yu Restaurant專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu Restaurant的老闆Ginny在中國出生，15歲時在香港開始學習烹飪。在香港積累了8年的烹飪經驗後，Ginny 移居美國，在Newark開了第一家餐廳「永康海鮮酒家」，之後在Fremont開了「新永康海鮮酒家」。"
+      - "他成功的秘訣在於專注食物的品質，每天都在當地採購新鮮的農產品。Uncle Yu Restaurant的特色菜有核桃雞、蒙古牛肉和烤肉炒麵。現在餐廳也開始提供冰淇淋。歡迎您隨時光臨Union City到餐廳享受美食。餐廳從Hwy 880 離開Whipple Rd，餐廳就在 Industrial Pkwy SW 的旁邊。"
     
 
 

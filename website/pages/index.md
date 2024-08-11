@@ -37,7 +37,7 @@ header:
   bgOpacity: "1" # 0~1
   menuTextColor: "#000000"
   menu:
-  
+    - { text: "Home", link: "/" }
     - { text: "Gallery", link: "#gallery" }
     - { text: "About Us", link: "#about-us" }
     - { text: "Contact Us", link: "#contact-us" }
@@ -129,23 +129,23 @@ sections:
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
-    # Gallery  
-  - type: "gallery"
-    id: "gallery"
-    mode: 3 # 1 - 3
-    bgImg: ""
-    bgColor: ""
-    bgOpacity: "" # 0~1
-    title: 
-      - "Uncle Yu Restaurant Menu"
-    titleColor: "#000000"
-    description: 
-      - ""
-    descriptionColor: "#333333"
-    folderPath: "gallery2"
-    showImgName: false # true | false
-    imgNameColor: "#000000"
-    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+  #   # Gallery  
+  # - type: "gallery"
+  #   id: "gallery"
+  #   mode: 3 # 1 - 3
+  #   bgImg: ""
+  #   bgColor: ""
+  #   bgOpacity: "" # 0~1
+  #   title: 
+  #     - "Uncle Yu Restaurant Menu"
+  #   titleColor: "#000000"
+  #   description: 
+  #     - ""
+  #   descriptionColor: "#333333"
+  #   folderPath: "gallery2"
+  #   showImgName: false # true | false
+  #   imgNameColor: "#000000"
+  #   menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 
 # textBlock - only title
