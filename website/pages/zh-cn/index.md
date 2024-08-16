@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-"
 title: "Uncle Yu Restaurant 永康又一家 - Best Food Today"
-favicon: "favicon.ico"
+favicon: "icon.ico"
 logo: "logo.webp"
 primaryColor: "#F11B20" # logo color
 secondaryColor: "#F7D389"
@@ -335,7 +335,7 @@ footer:
   uberEatsLink: ""
 
   acceptedPaymentMethodsInsteadText: "支付方式"
-  paymentMethod: "visa,amex,cash,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  paymentMethod: "visa,amex,applePay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   # at a minimum, please make sure to include the meta description.
 seo:

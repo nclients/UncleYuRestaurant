@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-"
 title: "Uncle Yu Restaurant 永康又一家 - Best Food Today"
-favicon: "favicon.ico"
+favicon: "icon.ico"
 logo: "logo.webp"
 primaryColor: "#F11B20" # logo color
 secondaryColor: "#F7D389"
