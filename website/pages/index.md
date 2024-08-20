@@ -334,12 +334,12 @@ footer:
   uberEatsLink: ""
 
   acceptedPaymentMethodsInsteadText: ""
-  paymentMethod: "visa,amex,cash,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  paymentMethod: "visa,amex,applePay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: ""
-  metaDescription: "" 
+  metaTitle: "Uncle Yu Restaurant 永康又一家，a Chinese restaurant in Union city"
+  metaDescription: "Uncle Yu Restaurant in Union City offers a delightful array of authentic Chinese dishes. Join us for a memorable dining experience with family and friends.Online order Now！" 
   keywords: ""
   img: ""
   thisPageUrl: ""
