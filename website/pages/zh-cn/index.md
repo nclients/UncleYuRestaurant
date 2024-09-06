@@ -343,7 +343,7 @@ seo:
   metaDescription: "Uncle Yu Restaurant in Union City offers a delightful array of authentic Chinese dishes. Join us for a memorable dining experience with family and friends.Online order Now！" 
   keywords: ""
   img: ""
-  thisPageUrl: ""
-  locale: "en_US" # zh_TW | zh_CN
+  thisPageUrl: "https://www.uncleyurestaurant-order.com/"
+  locale: "zh_CN" # zh_TW | zh_CN
 ---
 <!-- hello world -->
