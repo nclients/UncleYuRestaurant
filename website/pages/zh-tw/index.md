@@ -1,6 +1,8 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
-tag: "GTM-"
+tag: ""
+googleSiteVerification: "Xddhfnp6S__WbmOQIBRh3NGoA6r0qQSofEtdht6L7ao" 
+
 title: "Uncle Yu Restaurant 永康又一家 - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo.webp"
@@ -39,7 +41,7 @@ header:
   menuTextColor: "#000000"
   menu:
     
-    - { text: "首頁", link: "/zh-cn" }
+    - { text: "首頁", link: "/zh-tw" }
     - { text: "菜品展示", link: "#gallery" }
     - { text: "關於我們", link: "#about-us" }
     - { text: "聯繫我們", link: "#contact-us" }
@@ -180,6 +182,7 @@ sections:
     description: 
       - "在 Uncle Yu Restaurant 永康又一家，我們非常高興為顧客提供正宗美味的中國菜。"
     descriptionColor: "#000000"
+    isTextAlignCenter: true
 
     addOrderOnlineBtn: false
     orderOnlineBtnInsteadText: ""
@@ -311,14 +314,14 @@ footer:
     
   
   isLogo: true
-  logoSize: 80
-  logoSizeOnMobile: 65
+  logoSize: 100
+  logoSizeOnMobile: 80
   # menu:
   #   - { text: "Home", link: "/" }
   #   - { text: "Gallery", link: "#gallery" }
   #   - { text: "About Us", link: "/#about-us" }
   #   - { text: "Contact Us", link: "/#contact-us" }
-  #   - { text: "中文", link: "/zh-cn" }
+  #   - { text: "中文", link: "/zh-tw" }
 
   FB: false
   FBLink: ""

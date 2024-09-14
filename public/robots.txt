@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /$
-Allow: /zh-cn/$
+Allow: /zh-tw/$
 Allow: /gallery/
 Allow: /gallery2/
 Allow: /robots.txt
