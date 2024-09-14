@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-"
 title: "Uncle Yu Restaurant 永康又一家 - Best Food Today"
-favicon: "icon.ico"
+favicon: "favicon.ico"
 logo: "logo.webp"
 primaryColor: "#F11B20" # logo color
 secondaryColor: "#F7D389"
@@ -12,7 +12,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=e207865d-77a8-46ab-8b4a-00dee8b31224"
 tableReservationLink: ""
-tel: "510 475 8087"
+tel: "510-475-8087"
 trackingNum: ""
 
 # banner:
@@ -25,9 +25,10 @@ trackingNum: ""
 
 # header
 header:
-  logoSize: 45
+  logoSize: 75
+  logoSizeOnMobile: 60
   textAfterLogo: 
-    text: "Uncle Yu Restaurant 永康又一家"
+    text: ""
     size: 16
     color: ""
   showTextAfterLogoOnMobile: false
@@ -86,8 +87,8 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
 
-    btn1Text: ""
-    btn1Href: "" 
+    btn1Text: "在線訂餐"
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=e207865d-77a8-46ab-8b4a-00dee8b31224" 
     btn2Text: "" 
     btn2Href: "" 
 
@@ -120,7 +121,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Uncle Yu Restaurant 永康又一家的美食"
+      - "Uncle Yu Restaurant"
+      - "永康又一家的美食"
     titleColor: "#000000"
     description: 
       - ""
@@ -159,8 +161,8 @@ sections:
       - "關於我們"
     titleColor: "#000000"
     description: 
-      - "Uncle Yu Restaurant永康又一家於1995年在 Union City 成立。Uncle Yu Restaurant專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu Restaurant的老闆Ginny在中國出生，15歲時在香港開始學習烹飪。在香港積累了8年的烹飪經驗後，Ginny 移居美國，在Newark開了第一家餐廳「永康海鮮酒家」，之後在Fremont開了「新永康海鮮酒家」。"
-      - "他成功的秘訣在於專注食物的品質，每天都在當地採購新鮮的農產品。Uncle Yu Restaurant的特色菜有核桃雞、蒙古牛肉和烤肉炒麵。現在餐廳也開始提供冰淇淋。歡迎您隨時光臨Union City到餐廳享受美食。餐廳從Hwy 880 離開Whipple Rd，餐廳就在 Industrial Pkwy SW 的旁邊。"
+      - "Uncle Yu Restaurant 永康又一家於1995年在 Union City 成立。Uncle Yu Restaurant 永康又一家專營正宗中餐，提供品質優良、味道可口的餐點。Uncle Yu Restaurant 永康又一家的老闆Ginny在中國出生，15歲時在香港開始學習烹飪。在香港積累了8年的烹飪經驗後，Ginny 移居美國，在Newark開了第一家餐廳「永康海鮮酒家」，之後在Fremont開了「新永康海鮮酒家」。"
+      - "他成功的秘訣在於專注食物的品質，每天都在當地採購新鮮的農產品。Uncle Yu Restaurant 永康又一家的特色菜有核桃雞、蒙古牛肉和烤肉炒麵。現在餐廳也開始提供冰淇淋。歡迎您隨時光臨Union City到餐廳享受美食。餐廳從Hwy 880 離開Whipple Rd，餐廳就在 Industrial Pkwy SW 的旁邊。"
     
 
 
@@ -173,7 +175,7 @@ sections:
     height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgWithText" # video | imgWithText | imgBg
     title: 
-      - "歡迎來Uncle Yu Restaurant 永康又一家"
+      - "歡迎來 Uncle Yu Restaurant 永康又一家"
     titleColor: "#000000"
     description: 
       - "在 Uncle Yu Restaurant 永康又一家，我們非常高興為顧客提供正宗美味的中國菜。"
@@ -269,8 +271,8 @@ sections:
     url: "https://maps.app.goo.gl/Po55ANqgqeUJw9WS9"
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3160.569173689629!2d-122.07087332412405!3d37.61229737202664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f95cca8b233ad%3A0x1c42f42664925283!2zVW5jbGUgWXUgUmVzdGF1cmFudCDmsLjlurflj4jkuIDlrrY!5e0!3m2!1szh-CN!2sjp!4v1723253578300!5m2!1szh-CN!2sjp"
     addTelBtn: true
-    tel: "510 475 8087"
-    telInsteadText: "電話：510 475 8087"
+    tel: ""
+    telInsteadText: "電話：510-475-8087"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
     getDirectionBtnInsteadText: "導航去餐廳"
@@ -302,16 +304,15 @@ footer:
 
   openingHoursInsteadText: "營業時間"
   openingHours: 
-    - "週一"
+    - "週一, 週三 - 週日"
     - "10:00 AM - 9:00 PM"
     - "週二"
-    - "Close"
-    - "週三 - 週日"
-    - "10:00 AM - 9:00 PM"
+    - "休業"
+    
   
   isLogo: true
-  logoSize: 100
- 
+  logoSize: 80
+  logoSizeOnMobile: 65
   # menu:
   #   - { text: "Home", link: "/" }
   #   - { text: "Gallery", link: "#gallery" }
@@ -336,14 +337,16 @@ footer:
 
   acceptedPaymentMethodsInsteadText: "支付方式"
   paymentMethod: "visa,amex,applePay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  address: 
+    - address: "30059 Industrial Pkwy SW, Union City, CA 94587"
+      url: "https://maps.app.goo.gl/Po55ANqgqeUJw9WS9"
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Uncle Yu Restaurant 永康又一家，a Chinese restaurant in Union city"
-  metaDescription: "Uncle Yu Restaurant in Union City offers a delightful array of authentic Chinese dishes. Join us for a memorable dining experience with family and friends.Online order Now！" 
-  keywords: ""
-  img: ""
-  thisPageUrl: "https://www.uncleyurestaurant-order.com/"
-  locale: "zh_CN" # zh_TW | zh_CN
+  metaTitle: "Uncle Yu Restaurant 永康又一家 | aUnion City的一家中餐館"
+  metaDescription: "Union City 的永康又一家 Uncle Yu 餐館提供各式正宗的中式佳餚。邀請您與家人朋友一起享受難忘的用餐體驗。立即在線訂購！" 
+  canonicalHref: "https://www.uncleyurestaurant-order.com/" # https://example.com/
+    
+  locale: "zh_TW" # zh_TW | zh_CN | ja_JP
 ---
 <!-- hello world -->
