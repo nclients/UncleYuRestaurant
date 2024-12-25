@@ -1,9 +1,3 @@
 User-agent: *
-Allow: /$
-Allow: /zh-tw/$
-Allow: /gallery/
-Allow: /gallery2/
-Allow: /robots.txt
-Allow: /sitemap.xml
-Disallow: /
+Disallow: 
 Sitemap: https://www.uncleyurestaurant-order.com/sitemap.xml
