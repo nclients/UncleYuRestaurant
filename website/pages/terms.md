@@ -3,7 +3,7 @@ layout: "ssg-theme-astro/layouts/main.astro" # This line of code should remain u
 tag: ""
 googleSiteVerification: "Xddhfnp6S__WbmOQIBRh3NGoA6r0qQSofEtdht6L7ao"
 
-title: "Uncle Yu Restaurant 永康又一家 - Best Food Today"
+title: "Uncle Yu Restaurant 永康又一家"
 favicon: "favicon.ico"
 logo: "logo.webp"
 primaryColor: "#F11B20" # logo color
