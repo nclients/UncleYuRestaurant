@@ -13,6 +13,7 @@ secondaryColorScheme: "light"
 tel: "510-475-8087"
 address: "30059 Industrial Pkwy SW, Union City, CA 94587"
 trackingNum: ""
+creationDate: 1 Jan 2025
 
 # banner:
 #   text:
