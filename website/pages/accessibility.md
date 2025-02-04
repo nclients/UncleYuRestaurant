@@ -73,7 +73,7 @@ footer:
     - "Close"
 
   isLogo: true
-  logoSize: 100
+  logoSize: 90
   logoSizeOnMobile: 80
   menu:
     - { text: "Home", link: "/" }

@@ -27,8 +27,8 @@ trackingNum: ""
 
 # header
 header:
-  logoSize: 75
-  logoSizeOnMobile: 60
+  logoSize: 85
+  logoSizeOnMobile: 75
   textAfterLogo:
     text: ""
     size: 16
@@ -306,7 +306,7 @@ footer:
     - "休業"
 
   isLogo: true
-  logoSize: 100
+  logoSize: 90
   logoSizeOnMobile: 80
   # menu:
   #   - { text: "Home", link: "/" }
