@@ -192,6 +192,7 @@ sections:
     btn2Href: ""
 
     bannerImg: "uncle yu.webp"
+    bannerImgAlt: "Uncle Yu storefront with a New Management banner, and the menu board with food photos inside"
     imgPosition: "imgRight" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "sm" # sm | md | lg | xl | 2xl | 3xl | full

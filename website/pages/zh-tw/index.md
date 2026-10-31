@@ -191,6 +191,7 @@ sections:
     btn2Href: ""
 
     bannerImg: "uncle yu.webp"
+    bannerImgAlt: "Uncle Yu 店面掛著新店主布條，以及店內附餐點照片的菜單板"
     imgPosition: "imgRight" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "sm" # sm | md | lg | xl | 2xl | 3xl | full
