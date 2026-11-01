@@ -134,10 +134,10 @@ sections:
     altOverrides:
       "001_Stir-Fried Chicken with Peanuts and Peppers": "Kung Pao Chicken"
       "002_Chow Mein with Beef and Scallions": "Beef Chow Mein"
-      "003_Pan-Fried Crispy Noodles with Chicken and Bok Choy": "Pan-Fried Crispy Noodles with Bok Choy"
+      "003_Pan-Fried Crispy Noodles with Chicken and Bok Choy": "Crispy Pan-Fried Noodles with Meat and Bok Choy"
       "004_Sesame Balls on Shredded Lettuce": "Sesame Balls"
       "010_Stir-Fried Scallops Shrimp and Vegetables": "Stir-Fried Shrimp and Scallops with Vegetables"
-      "012_Stir-Fried Rice Noodles in Takeout Container": "Chow Fun Wide Rice Noodles with Bean Sprouts and Scallions"
+      "012_Stir-Fried Rice Noodles in Takeout Container": "Stir-Fried Wide Rice Noodles with Bean Sprouts and Scallions"
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
